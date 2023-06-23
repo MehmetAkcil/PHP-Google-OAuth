@@ -32,8 +32,8 @@ Aşağıdaki adımları izleyerek projeyi yerel ortamınıza kurabilir ve çalı
 
 Detaylı talimatlar ve örnek kullanımlar için lütfen projenin dökümantasyonunu inceleyin.
 
-##Katkıda Bulunma
+## Katkıda Bulunma
 Katkıda bulunmak için lütfen önerilerinizi veya geri bildirimlerinizi GitHub üzerinden gönderin. Yeni özellik önerileri ve hata bildirimleri memnuniyetle karşılanır.
 
-##Lisans
+## Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
