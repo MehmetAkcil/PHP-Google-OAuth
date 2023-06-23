@@ -18,7 +18,7 @@ Aşağıdaki adımları izleyerek projeyi yerel ortamınıza kurabilir ve çalı
    ```shell
    git clone https://github.com/MehmetAkcil/PHP-Google-OAuth.git
 
-   config.php dosyasını açın ve Google OAuth istemcisi için oluşturduğunuz kimlik doğrulama bilgilerini (CLIENT_ID, CLIENT_SECRET, REDIRECT_URI) güncelleyin.```
+   form.php dosyasını açın ve Google OAuth istemcisi için oluşturduğunuz kimlik doğrulama bilgilerini (CLIENT_ID, CLIENT_SECRET, REDIRECT_URI) güncelleyin.```
 
 2. Projeyi bir web sunucusunda veya yerel sunucunuzda çalıştırın.
 
