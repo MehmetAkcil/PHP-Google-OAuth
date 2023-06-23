@@ -20,20 +20,20 @@ Aşağıdaki adımları izleyerek projeyi yerel ortamınıza kurabilir ve çalı
 
    config.php dosyasını açın ve Google OAuth istemcisi için oluşturduğunuz kimlik doğrulama bilgilerini (CLIENT_ID, CLIENT_SECRET, REDIRECT_URI) güncelleyin.```
 
-Projeyi bir web sunucusunda veya yerel sunucunuzda çalıştırın.
+2. Projeyi bir web sunucusunda veya yerel sunucunuzda çalıştırın.
 
-Tarayıcınızda projeyi açın ve index.php sayfasına gidin. Bu, kullanıcıyı Google hesaplarına yönlendirecektir.
+3. Tarayıcınızda projeyi açın ve index.php sayfasına gidin. Bu, kullanıcıyı Google hesaplarına yönlendirecektir.
 
-Kimlik doğrulama sürecini takip edin ve yetkilendirme kodunu alın.
+4. Kimlik doğrulama sürecini takip edin ve yetkilendirme kodunu alın.
 
-Yetkilendirme kodunu kullanarak erişim belirteci ve yenileme belirteci alınır.
+5. Yetkilendirme kodunu kullanarak erişim belirteci ve yenileme belirteci alınır.
 
-Alınan erişim belirteciyi kullanarak Google API'larına yetkili istekler göndermeye başlayın.
+6. Alınan erişim belirteciyi kullanarak Google API'larına yetkili istekler göndermeye başlayın.
 
 Detaylı talimatlar ve örnek kullanımlar için lütfen projenin dökümantasyonunu inceleyin.
 
-Katkıda Bulunma
+##Katkıda Bulunma
 Katkıda bulunmak için lütfen önerilerinizi veya geri bildirimlerinizi GitHub üzerinden gönderin. Yeni özellik önerileri ve hata bildirimleri memnuniyetle karşılanır.
 
-Lisans
+##Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
